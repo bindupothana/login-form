@@ -5,3 +5,10 @@ app.controller('newCtrl', function($scope, $stateParams, $state) {
     $state.go('list');
   }
 });
+
+
+
+
+
+
+
